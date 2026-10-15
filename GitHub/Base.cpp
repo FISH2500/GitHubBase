@@ -7,3 +7,4 @@ int main()
 	cout << "Hello GitHub" << endl;//•ÏXƒeƒXƒg
 	return 0;
 }
+//’r“cW‘å.name
