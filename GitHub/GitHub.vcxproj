@@ -130,7 +130,7 @@
     <ClCompile Include="Base.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="YourName.h" />
+    <ClInclude Include="まさと.h" />
     <ClInclude Include="おだーに.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
